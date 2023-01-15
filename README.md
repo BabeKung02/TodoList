@@ -18,9 +18,9 @@ npm install --save @fortawesome/react-fontawesome in terminal
 
 7.npm run dev in terminal for run project
 
-How to Use Todo-List App
+How to Use Todo-List App 
 
-1. Users can enter the text of what they want to do in the input box.
+1.Users can enter the text of what they want to do in the input box.
 
 2.Enter or Click Add Button to save todo-list. 
 
