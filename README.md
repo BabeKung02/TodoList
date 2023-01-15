@@ -1,4 +1,4 @@
-This project uses React Framework and uses ViteJS Tool to install packages, uses Library uuid to randomize ID and Icon from FontAwesome.
+This project uses React Framework and uses ViteJS Tool to install packages, uses Library uuid to randomize ID and Icon from FontAwesome and and use LocalStorage to store user data.
 
 How to install :
 
@@ -22,11 +22,17 @@ How to Use Todo-List App
 
 1. Users can enter the text of what they want to do in the input box.
 
-2.Enter or Click Search Icon to save todo-list.
+2.Enter or Click Add Button to save todo-list. 
 
-(https://user-images.githubusercontent.com/115159423/212528061-fe6902db-b978-48ec-8ce4-67298c37a727.png)
+3.When users enter or click to build todo-list, Todolist app will create a new todo. It is the information that the user enters. There will be 3 functions in it: 
+3.1 Complete Function for checking that the list has been completed 
+3.2 Edit Function for editing the todo-list 
+3.3 Delete Function for deleting the todo-list
 
-3.
+This is UserInterface My Todo-App
+
+![image](https://user-images.githubusercontent.com/115159423/212528447-a39f0cdb-8d1b-4a2b-b6d0-e8ba44db0ed9.png)
+
 
 My Web Deploy : https://babetodolist.netlify.app/
 
